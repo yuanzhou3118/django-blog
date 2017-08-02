@@ -1,1 +1,3 @@
 # django-blog
+
+个人写的一个blog，还在装修中...
